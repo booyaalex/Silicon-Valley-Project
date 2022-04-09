@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(yellow, white);
+}
+#w{
+    height: 200px;
+    width: 200px;
+    border: 5.7px solid #000;
+}
+#dmrk{
+    height: 350px;
+    width: 350px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
